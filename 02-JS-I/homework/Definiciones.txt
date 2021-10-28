@@ -1,0 +1,16 @@
+Variables
+lo usamos para guardar datos que vamos a necesitar durante la ejecucion de nuestro programa, gralmente cambia su valor pero tambien pueden no variar. Hay 5 tipos de variables (numericas, string, booleanas, null y undefined)
+
+Strings
+Es un tipo de variable que almacena texto, un string es una oracion, es cualquier texo, puede ser solo una letra, los usamos cuando queremos almacenar un nombre o un apellido
+
+Funciones (argumentos, `return`)
+Usamos las funciones cuando necesitamos reemplazar ciertos comandos que serian repetitivos, para no reescribir el codigo cada vez que lo necesitamos, creamos una funcion y la llamamos cuando sea necesario, una funcion puede o no tener argumentos, un argumento es un dato (o datos) que le pasamos a la funcion para que esta haga su trabajo, algunas veces es obligatorio pasarle un dato y otras no, depende de como lo defina el programador.
+Tambien las funciones casi siempre devuelven algo, nos dan una respuesta cuando terminan de ejecutarse, esta respuesta se realiza con el comando 'return'
+
+Declaraciones `if`
+Mediante if controlamos para donde va nuestro programa, es decir, si sucede tal cosa, yo tengo que tomar este camino, si no sucede, tengo que tomar tal otro, es decir, nuestro programa "decide" que hacer en funcion de lo que el programador le indica, por ejemplo, dado un programa que sume 2 numeros, el programa primero controla que que se ingresaron numeros y no letras, entonces a modo de control pregunta si los valores ingresados son numeros, de ser asi, los suma, de no cumplirse esta condicion, el programa indica un error en los datos ingresados
+
+Valores booleanos (`true`, `false`)
+estos son valores especiales que contienen 2 estados (true, false) se utilizan como banderas que nos pueden indicar estos estados de las variables
+
