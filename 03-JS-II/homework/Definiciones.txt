@@ -1,0 +1,5 @@
+
+* `for`: se utiliza para evitar reescribir codigo cuando hay acciones repetitivas (escribir 100 veces la palabra "Hola"), se le debe dar un punto de inicio, un  punto de fin, y el incremento que se le debe dar al inicio para llegar a este final
+
+
+* `&&`, `||`, `!` son los operadores para trabajar con valores booleanos, sirven para ampilar las condiciones en los if, permite realizar mas de una pregunta encadenandolos. Poseen una tabla de verdad en donde explica el resultado de cada una de estas operaciones
