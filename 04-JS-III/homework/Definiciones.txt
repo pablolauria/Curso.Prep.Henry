@@ -1,0 +1,1 @@
+Array: un arreglo es una lista de elementos, accedemos a ellos mediante un índice, tambien podemos leer los elementos, sacarlos o agregar nuevos, el indice 0 nos hace una referencia al inicio de la lista.
